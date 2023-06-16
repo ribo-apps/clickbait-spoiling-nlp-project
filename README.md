@@ -1,4 +1,6 @@
-# click-spoiling-llm
+# GitHub Repo:
+https://github.com/ribo-apps/clickbait-spoiling-nlp-project
+
 
 ## preprocess.ipynb:</br>
 We preprocessed the train and validation datasets in this script.
