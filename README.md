@@ -1,7 +1,9 @@
-# GitHub Repo:
-https://github.com/ribo-apps/clickbait-spoiling-nlp-project
+# Challenge:
+https://pan.webis.de/semeval23/pan23-web/clickbait-challenge.html
 
+[Final Report](https://github.com/ribo-apps/clickbait-spoiling-nlp-project/Final_report.pdf)
 
+[Presentation](https://github.com/ribo-apps/clickbait-spoiling-nlp-project/spoiler_gen_presentation.pdf)
 ## preprocess.ipynb:</br>
 We preprocessed the train and validation datasets in this script.
 </br>
